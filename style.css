@@ -312,5 +312,8 @@ main{
   font-size: 14px;
   color: #878787;
 }
-
+#imgcontent{
+  width:60%; 
+  height:100px;
+}
 
